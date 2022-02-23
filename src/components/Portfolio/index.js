@@ -6,34 +6,40 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surf-report',
-      description: 'MERN Stack',
-      link: "https://github.com",
+      name: 'dog-adoption',
+      description: 'Javascript, API',
+      link: "https://cluck135.github.io/Dog-Adoption-Site/",
+      repo: "https://github.com/cluck135/Dog-Adoption-Site"
+    },
+    {
+      name: 'text-editor',
+      description: 'Progressive Web Application',
+      link: "https://text-editor1.herokuapp.com/",
+      repo: "https://github.com/npduval/Text-Editor"
+    },
+    {
+      name: 'password-generator',
+      description: 'Javascript',
+      link: "https://npduval.github.io/Password-Generator/",
+      repo: "https://github.com/npduval/Password-Generator"
+    },
+    {
+      name: 'readme-generator',
+      description: 'Node.js',
+      link: "https://drive.google.com/file/d/1xeRtpzl9Tcj8W-fHFUOcxcQM9l8tNEyA/view?usp=sharing",
       repo: "https://github.com"
     },
     {
-      name: 'pastel-puzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'weather-dashboard',
+      description: 'JavaScript/API',
+      link: "https://npduval.github.io/Weather-Dashboard/",
+      repo: "https://github.com/npduval/Weather-Dashboard"
     },
     {
-      name: 'run-buddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
-    {
-      name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
-    {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'social-network',
+      description: 'Express.js, MongoDB',
+      link: "https://watch.screencastify.com/v/VRORTMu1IdhYHDaOCoTR",
+      repo: "https://github.com/npduval/Social-Network-API"
     },
   ]);
 
