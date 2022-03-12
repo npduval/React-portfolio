@@ -6,6 +6,6 @@
 Technologies: React
  
  
- https://react-portfolio74.herokuapp.com/
+ https://npduval.github.io/React-portfolio/
  
  https://github.com/npduval/React-portfolio
