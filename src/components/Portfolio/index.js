@@ -18,10 +18,10 @@ function Portfolio() {
       repo: "https://github.com/npduval/Text-Editor"
     },
     {
-      name: 'password-generator',
-      description: 'Javascript',
-      link: "https://npduval.github.io/Password-Generator/",
-      repo: "https://github.com/npduval/Password-Generator"
+      name: 'book-store-app',
+      description: 'MERN stack, GraphQL',
+      link: "https://bookstoreapp2022.herokuapp.com/",
+      repo: "https://github.com/MERYEM-AD/book-store-app"
     },
     {
       name: 'readme-generator',
